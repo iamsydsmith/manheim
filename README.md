@@ -11,3 +11,5 @@ Game site: [http://iamsydneysmith.com/manheim.html](http://iamsydneysmith.com/ma
 - CSS3
 - Javascript
 - jQuery
+- jQuery UI
+- Flexbox
