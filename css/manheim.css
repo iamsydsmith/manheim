@@ -51,29 +51,6 @@ body {
     color: grey;
 }
 
-li a {
-    text-decoration: none;
-    text-align: center;
-    color: #efcf5e;
-    background-color: #E6E6E6;
-    padding: 14px 50px;
-    list-style: none;
-    border-radius: 15px;
-    margin: 0 10px 0 10px;
-}
-
-li a.active {
-    color: #efcf5e;
-    background-color: #21345e;
-}
-
-ul {
-    display: flex;
-    flex-wrap: row wrap;
-    list-style: none;
-    display: inline-flex;
-}
-
 #gameresults {
     border: #efcf5e 3px dashed;
     color: white;
